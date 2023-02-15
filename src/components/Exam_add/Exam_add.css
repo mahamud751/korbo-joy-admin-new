@@ -1,0 +1,60 @@
+.left_card {
+  background-color: white;
+
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px;
+  margin-top: -30px;
+  width: 90%;
+  height: 600px;
+}
+
+.left_card_header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left_card_text {
+  text-decoration: none;
+  color: #9184c0;
+  font-weight: 600;
+}
+
+
+.side_menu {
+  color: #000000;
+}
+
+.content_title {
+  left: 447px;
+
+  text-align: left;
+  font: normal normal bold 20px/27px Recoleta;
+  letter-spacing: 0px;
+  color: #463196;
+  opacity: 1;
+}
+
+.content_text {
+  top: 541px;
+  left: 447px;
+  width: 829px;
+
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 16px/25px Poppins;
+  letter-spacing: 0px;
+  color: #0f0c1a;
+  opacity: 1;
+}
+
+
+.delete_btn {
+  top: 127px;
+  left: 1175px;
+  width: 78px;
+  height: 39px;
+  background: #1ba6430a 0% 0% no-repeat padding-box;
+  border: 1px solid #1ba643;
+  border-radius: 5px;
+  color: #1ba643;
+}

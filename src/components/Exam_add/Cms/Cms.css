@@ -1,0 +1,23 @@
+.cms_6 {
+  text-align: left;
+  font: normal normal 600 18px/27px Poppins;
+  letter-spacing: 0px;
+  color: #463196;
+}
+.faq_card {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #c8c1df;
+  border-radius: 5px;
+}
+.cms_a {
+  text-decoration: underline;
+  font: normal normal medium 13px/20px Poppins;
+  letter-spacing: 0px;
+  color: #1ba643;
+}
+.cms_a2 {
+  text-decoration: underline;
+  font: normal normal medium 13px/20px Poppins;
+  letter-spacing: 0px;
+  color: #939198;
+}
